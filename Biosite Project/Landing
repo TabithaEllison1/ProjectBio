@@ -1,8 +1,26 @@
 <html>
 
-<body>
+<html lang="en">
     
-    <hl> Landing- Interview</hl>
+<head>
 
-    <p>Tamara</p>
-</body>
+    <link rel="stylesheet" type="text/css" href="Bio.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700;1,900&family=Oswald:wght@300;500;700&family=Quattrocento+Sans:wght@400;700&family=Roboto:wght@100;300&display=swap" rel="stylesheet">
+
+
+</head>
+
+    <body>
+
+    
+    <h1> BIO! BIO! Read All About It!</h1>
+
+    <p>Tamara was raised in Round Rock, Texas, which is the suburbs of Austin, Texas. She graduated from Thorndale High class of 1993. Her childhood dream career was a teacher because she was fortunate enough to be taught by caring and superlative teachers. In 2001, she graduated from South Plains College as a registered nurse. Each day she aspires to provide the best care for her patients. Her nursing responsibilities include record keeping of patient details and symptoms, administering medications and medicines, assessing smptoms,etc. She held an occupation as a nurse for the Covenant Hospital in Lubbock, Tx for 8 years. Currently, she is a charge nurse at Farwell Care and Rehabilitation Center in Farwell, Texas. May 1, 2022, she received an appreciation award for her dedication and hard work. Next, Tamara loves to host events as an event planner. She has hosted birthday parties, anniversary celebrations, baby showers, and even a wedding. Decorating and bringing people’s visions alive, of the perfect event is a joy and privilege. Her last event was hosted at the Chateau Cocomar in Houston, Texas on May 21, 2022, where she wowed the audience with fireworks that sprang in the air as the song “America, The Beautiful” was sung. Another wow factor was the castle cake inspired by the castle in which the event was held in. Her event was rated 5 stars by the guests who attended.  
+
+        In the end, Tamara hopes to one day own a family restaurant, in which she can cook her homemade family recipes that have been passed down from generation to generation. </p>
+
+        </body>
+
+</html>
